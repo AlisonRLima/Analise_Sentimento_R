@@ -22,10 +22,10 @@ source("utils.R")
 
 Criando autenticação no Twitter.
 ```{r}
-key<-"X3tLabKseosqNfnfZIaU2B829"
-secret<-"5VsdANG35oBKmrnDd6FTEhGgaklGKX8ujOf0umLwaRatCC8RFg"
-token<-"890217190577897473-BIjMvFNPIL6IUQH4TurpfrZ8ZC0b40n"
-tokensecret<-"nRrfW2ACMQ2qo7aRgrvonXHI0A2EFeUerpwNnm8Resthy"
+key<-"X3tLabKseosq..."
+secret<-"5VsdANG35oBKmrnDd6FTEh..."
+token<-"890217190577897..."
+tokensecret<-"nRrfW2ACMQ2qo7aRg..."
 setup_twitter_oauth(key, secret, token, tokensecret)
 
 ```
